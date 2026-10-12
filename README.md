@@ -1,4 +1,4 @@
-# \# ArduinoP4Camera
+# &#x20;ArduinoP4Camera
 
 # 
 
@@ -10,7 +10,7 @@
 
 # 
 
-# \## Features
+# &#x20;Features
 
 # 
 
@@ -28,7 +28,7 @@
 
 # 
 
-# \## Funktionsweise
+# &#x20;Funktionsweise
 
 # 
 
@@ -44,7 +44,7 @@
 
 # 
 
-# \## Hardware
+# &#x20;Hardware
 
 # 
 
@@ -56,7 +56,7 @@
 
 # 
 
-# \## Streaming
+# &#x20;Streaming
 
 # 
 
@@ -64,7 +64,7 @@
 
 # 
 
-# \## Projektziel
+# &#x20;Projektziel
 
 # 
 
@@ -72,7 +72,7 @@
 
 # 
 
-# \# ArduinoP4Camera
+# &#x20;ArduinoP4Camera
 
 # 
 
@@ -84,7 +84,7 @@
 
 # 
 
-# \## Features
+# &#x20;Features
 
 # 
 
@@ -102,7 +102,7 @@
 
 # 
 
-# \## How It Works
+# &#x20;How It Works
 
 # 
 
@@ -118,7 +118,7 @@
 
 # 
 
-# \## Hardware Requirements
+# &#x20;Hardware Requirements
 
 # 
 
@@ -130,7 +130,7 @@
 
 # 
 
-# \## Streaming
+# &#x20;Streaming
 
 # 
 
@@ -138,13 +138,11 @@
 
 # 
 
-# \## Project Goal
+# &#x20;Project Goal
 
 # 
 
 # The goal of this project is to implement a compact camera streaming solution based on the ESP32-P4C6. The camera is connected directly via MIPI CSI, while the integrated web server makes the camera stream accessible through a web browser.
 
 # 
-
-
 
